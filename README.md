@@ -19,3 +19,7 @@
 <img width="" height="" src="./pic/b.png"> </img>
 <img width="" height="" src="./pic/c.png"> </img>
 <img width="" height="" src="./pic/d.png"> </img>
+
+# 6주차(2022-04-12)
+
+<img width="" height="" src="./pic/6st.png"> </img>
