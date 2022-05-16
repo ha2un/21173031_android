@@ -23,3 +23,8 @@
 # 6주차(2022-04-12)
 
 <img width="" height="" src="./pic/6st.png"> </img>
+
+# 10주차(2022-05-16)
+
+<img width="" height="" src="./pic/main.png"> </img>
+<img width="" height="" src="./pic/menu.png"> </img>
